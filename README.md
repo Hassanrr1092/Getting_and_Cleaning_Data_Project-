@@ -1,0 +1,2 @@
+# Human_Activity_Recognition_Using_Smartphones_Dataset-Getting_and_Cleaning_Data_Project-
+Human Activity Recognition Using Smartphones Dataset
