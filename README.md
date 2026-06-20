@@ -11,7 +11,7 @@
 
 #### This reposity contain the following files:
 - R script [run_analysis.R](https://github.com/Hassanrr1092/Getting_and_Cleaning_Data_Project-/blob/main/run_analysis.R)
-- [tidy_data.txt/tidy_data.csv]: the data set which cleaned and then made tidy for analysis (https://github.com/Hassanrr1092/Getting_and_Cleaning_Data_Project-/blob/main/run_analysis.R)
-- [cookbook.md]: the file you will find necessary information about this project (https://github.com/Hassanrr1092/Getting_and_Cleaning_Data_Project-/blob/main/coodbook.md)
+- [tidy_data.txt/tidy_data.csv](https://github.com/Hassanrr1092/Getting_and_Cleaning_Data_Project-/blob/main/run_analysis.R): the data set which cleaned and then made tidy for analysis 
+- [cookbook.md](https://github.com/Hassanrr1092/Getting_and_Cleaning_Data_Project-/blob/main/coodbook.md): the file you will find necessary information about this project 
 - [README.md](https://github.com/Hassanrr1092/Getting_and_Cleaning_Data_Project-/blob/main/README.md)
 - [github repo](https://github.com/Hassanrr1092/Getting_and_Cleaning_Data_Project-/tree/main)
