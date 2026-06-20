@@ -1,10 +1,10 @@
-### CookBook - Getting and Cleaning Data - Project
-#### John Hopkin Univesity - Coursera
+## CookBook - Getting and Cleaning Data - Project
+### John Hopkin Univesity - Coursera
 
 By, Hassan Reza Rezaye
 
 
-#### Explanation: 
+### Explanation: 
   
   The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years.
   Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) 
@@ -21,7 +21,7 @@ By, Hassan Reza Rezaye
   therefore a filter with 0.3 Hz cutoff frequency was used. From each window, a vector of features was obtained 
   by calculating variables from the time and frequency domain. See 'features_info.txt' for more details. 
   
-#### Source:
+### Source:
   The data for this project comes from data collected from the accelerometers from the Samsung Galaxy S smartphone. 
   A full description is available at the site where the data was obtained:
     
