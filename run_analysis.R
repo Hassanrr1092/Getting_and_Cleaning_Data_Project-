@@ -25,7 +25,7 @@ library(tibble)
 
 # Task 1. Merges the training and the test sets to create one data set.
 
-# Part a. Merged the train data (subject_test, X_test, Y_test)
+# Part a. Merged the test data (subject_test, X_test, Y_test)
 
             # read subject_test.txt that contains subject who perform the activities 
 subjects <- fread("../UCI HAR Dataset/test/subject_test.txt", col.names = "subject")
