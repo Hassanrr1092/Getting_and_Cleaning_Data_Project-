@@ -10,7 +10,8 @@
 4. The README that explains the analysis files is clear and understandable.
 
 #### This reposity contain the following files:
-- R script (run_analysis)
+- R script [run_analysis.R](https://github.com/Hassanrr1092/Getting_and_Cleaning_Data_Project-/blob/main/run_analysis.R)
 - tidy_data.txt/tidy_data.csv: the data set which cleaned and then made tidy for analysis
 - cookbook.md: the file you will find necessary information about this project
 - README.md
+- github repo
